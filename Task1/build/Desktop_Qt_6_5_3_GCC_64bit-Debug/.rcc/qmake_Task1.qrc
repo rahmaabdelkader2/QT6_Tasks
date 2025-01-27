@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Task1">
+    <file alias="qmldir">/home/rahma/QT_Tasks/Task1/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/Task1/qmldir</file>
+  </qresource>
+</RCC>
+

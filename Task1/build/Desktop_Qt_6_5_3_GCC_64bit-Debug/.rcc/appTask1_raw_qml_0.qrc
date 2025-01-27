@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Task1/">
+    <file alias="Main.qml">/home/rahma/QT_Tasks/Task1/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,5 @@
+module Task1
+typeinfo appTask1.qmltypes
+prefer :/qt/qml/Task1/
+Main 1.0 Main.qml
+
