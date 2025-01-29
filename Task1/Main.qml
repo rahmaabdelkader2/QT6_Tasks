@@ -26,7 +26,7 @@ Window {
             }
         }
 
-        // Second Button
+        // Second rectangle
         Rectangle {
             width: 100
             height: 100
@@ -42,7 +42,7 @@ Window {
             }
         }
 
-        // Third Button
+        // Third rectangle
         Rectangle {
             width: 100
             height: 100
@@ -58,7 +58,7 @@ Window {
             }
         }
 
-        // Fourth Button
+        // Fourth rectangle
         Rectangle {
             width: 100
             height: 100
