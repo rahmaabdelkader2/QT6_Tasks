@@ -1,0 +1,15 @@
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/appTask3.dir
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/appTask3_qmltyperegistration.dir
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/all_qmltyperegistrations.dir
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/appTask3_qmllint.dir
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/appTask3_qmllint_json.dir
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/appTask3_qmllint_module.dir
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/all_qmllint.dir
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/all_qmllint_json.dir
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/all_qmllint_module.dir
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/appTask3_tooling.dir
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/appTask3_qmlimportscan.dir
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/appTask3_autogen_timestamp_deps.dir
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/appTask3_autogen.dir

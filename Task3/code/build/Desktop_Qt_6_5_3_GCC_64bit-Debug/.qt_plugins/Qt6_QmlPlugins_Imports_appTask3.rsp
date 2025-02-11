@@ -1,0 +1,14 @@
+-rootPath
+/home/rahma/QT6_Tasks/Task3
+-cmake-output
+-output-file
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appTask3.cmake
+-importPath
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/Task3
+-importPath
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug
+-importPath
+/home/rahma/Qt/6.5.3/gcc_64/./qml
+-qrcFiles
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/qmake_Task3.qrc
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/appTask3_raw_qml_0.qrc

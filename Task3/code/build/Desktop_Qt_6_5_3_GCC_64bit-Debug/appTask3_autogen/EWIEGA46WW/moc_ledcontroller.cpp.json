@@ -1,0 +1,30 @@
+{
+    "classes": [
+        {
+            "className": "LedController",
+            "object": true,
+            "qualifiedClassName": "LedController",
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "buttonId",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "handleButtonClick",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ledcontroller.h",
+    "outputRevision": 68
+}

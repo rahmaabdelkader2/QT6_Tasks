@@ -1,0 +1,1 @@
+/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/appTask3_autogen/include/../EWIEGA46WW/moc_ledcontroller.cpp.json

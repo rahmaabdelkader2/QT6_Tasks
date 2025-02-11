@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/appTask3_autogen",
+	"CMAKE_BINARY_DIR" : "/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/rahma/QT6_Tasks/Task3",
+	"CMAKE_SOURCE_DIR" : "/home/rahma/QT6_Tasks/Task3",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/appTask3_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/rahma/QT6_Tasks/Task3/LED_OFF.png",
+		"/home/rahma/QT6_Tasks/Task3/LED_ON.png"
+	],
+	"LOCK_FILE" : "/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/appTask3_autogen.dir/AutoRcc_Images_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Images" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Images.cpp",
+	"RCC_EXECUTABLE" : "/home/rahma/Qt/6.5.3/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/rahma/QT6_Tasks/Task3/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/appTask3_autogen.dir/AutoRcc_Images_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/rahma/QT6_Tasks/Task3/Images.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
